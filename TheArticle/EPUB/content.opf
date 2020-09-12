@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="prng-uuid" version="3.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Does increased forest protection correspond to higher fire severity in frequent-fire forests of the western United States?</dc:title>
+    <dc:description>An academic paper that investigates the actual effect of current fire prevention methods and makes recommendations for the future.</dc:description>
+    <dc:type>Forestry</dc:type>
+    <dc:language>en-US</dc:language>
+    <dc:date>2020-09-30</dc:date>
+    <dc:creator id="author0">Curtis M. Bradley</dc:creator>
+    <dc:creator id="author1">Chad T. Hanson</dc:creator>
+    <dc:creator id="author2">Dominick A. DellaSala</dc:creator>
+    <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
+    <meta property="role" refines="#author1" scheme="marc:relators">aut</meta>
+    <meta property="role" refines="#author2" scheme="marc:relators">aut</meta>
+    <dc:identifier id="prng-uuid">3946fb82-e8ea-48ce-825c-6096791336e2</dc:identifier>
+    <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
+    <dc:source id="src-doi">10.1002/ecs2.1492</dc:source>
+    <meta refines="#src-doi" property="identified-type" scheme="onix:codelist5">06</meta>
+    <meta property="dcterms:modified">2020-09-12T14:29:52Z</meta>
+  </metadata>
+  <manifest>
+  </manifest>
+  <spine>
+  </spine>
+</package>
